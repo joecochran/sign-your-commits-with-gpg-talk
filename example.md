@@ -1,1 +1,1 @@
-This is an eample file
+This is an example file
