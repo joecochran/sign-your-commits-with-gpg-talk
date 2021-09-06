@@ -44,7 +44,7 @@ ssb   4096R/42B317FD4BA89E7A 2016-03-10
 
 The string we want in this example is `3AA5C34371567BD2` (the first one).
 
-With that ID, we can output what we need to enter in github with
+With that id, we can output what we need to enter in github with
 
 ```
 gpg --armor --export 668680C4FFA3F169
